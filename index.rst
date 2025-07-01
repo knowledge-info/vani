@@ -4,7 +4,7 @@ How to Track Vanilla Gift Balance Without Registering an Account
 
 .. image:: get.jpg
    :alt: vanilla gift balance
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci?aHR0cHM6Ly92YW5pbGxhZ3VpZGUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 Vanilla Gift Cards are a popular choice for gifting and personal spending due to their simplicity and ease of use. But one common question users ask is:
 
